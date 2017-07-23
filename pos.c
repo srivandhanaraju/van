@@ -18,4 +18,5 @@ else
 {
 printf("the number is positive");
 }
+ return o;
 }
