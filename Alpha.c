@@ -12,4 +12,5 @@ else{
 printf("it is not an alphabet");
 }
 getch();
+///////////////////////////////////// todo
 }
